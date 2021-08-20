@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning every possible thing.
 - 🎯 2021 goal is to create more projects on website development and many other projects.
 - 🤝 I’m looking to collaborate with other website designers.
-- 📫 reach me @ instagram: <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="15" height="15" >   linkedin: <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15" height="15" >
+- 📫 reach me @ instagram <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="15" height="15" >   linkedin <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15" height="15" >
 - ⚡ Fun fact: I'm very funny.
 
 <h3 align="left">Languages and Tools:</h3>
