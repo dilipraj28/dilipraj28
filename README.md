@@ -1,7 +1,8 @@
 
 
 # G Dilip Raj&nbsp;<img src="https://github.com/dilipraj28/dilipraj28/blob/main/Mario_Hello_Big.gif" width="30px">
-[![Twitter Badge](https://img.shields.io/badge/-@gdilipraj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gdilipraj)](https://twitter.com/gdilipraj) [![Linkedin Badge](https://img.shields.io/badge/-gdilipraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gdilipraj/)](https://www.linkedin.com/in/diliprajg/) [![Gmail Badge](https://img.shields.io/badge/-gdilipraj2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gdilipraj2001@gmail.com)](mailto:gdilipraj2001@gmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@gdilipraj-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gdilipraj)](https://twitter.com/gdilipraj) [![Linkedin Badge](https://img.shields.io/badge/-gdilipraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gdilipraj/)](https://www.linkedin.com/in/diliprajg/) [![Gmail Badge](https://img.shields.io/badge/-gdilipraj2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gdilipraj2001@gmail.com)](mailto:gdilipraj2001@gmail.com)<img src="https://github.com/dilipraj28/dilipraj28/blob/main/Handshake.gif" height="32px">
 
 
 <!-- <img align="right" alt="PC GIF" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/PC.gif" width="190" /> -->
