@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/" width="10" height="10"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
+    I am a 4th Year undergraduate from <a href="https://www.svcengg.com/" width="10" height="10"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
   </em>
 </p>
   
