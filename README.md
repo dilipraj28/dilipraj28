@@ -19,7 +19,7 @@
 ### Here are some ideas to get you started:
 
 - 👋 Hi, I’m @gdilipraj
-- 👀 I’m interested in web development,android app development and data science.
+- 👀 I’m interested in web development and JAVA.
 - 🌱 I’m currently learning every possible thing.
 - 🎯 2021 goal is to create more projects on website development and many other projects.
 - 🤝 I’m looking to collaborate with other website designers.
