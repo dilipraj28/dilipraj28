@@ -19,10 +19,10 @@
 ### Here are some ideas to get you started:
 
 - 👋 Hi, I’m @gdilipraj
-- 👀 I’m interested in web development and JAVA.
-- 🌱 I’m currently learning every possible thing.
-- 🎯 2021 goal is to create more projects on website development and many other projects.
-- 🤝 I’m looking to collaborate with other website designers.
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning every possible things.
+- 🎯 2022 goal is to create more projects on web development and many more.
+- 🤝 I’m looking to collaborate with other Developers.
 - ⚡ Fun fact: I'm very funny.
 
 <h3 align="left">Languages and Tools:</h3>
