@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I am a 4th Year undergraduate from <a href="https://www.svcengg.com/" width="10" height="10"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
+    I'm currently doing MSc in Computer Science from <a href="https://www.uea.ac.uk/" width="10" height="10"> <b>University of East Anglia, UK</a>. <br>
   </em>
 </p>
   
@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m @gdilipraj
 - 👀 I’m exploring different TECH STACKS.
-- 🌱 I’m currently doing MSc Cmp Sceince from <a href="https://www.uea.ac.uk/" target="_blank"> UEA </a>.
+- 🌱 Seeding ↑↓.
 - 🎯 2024 goal is to create more projects.
 - 🤝 I’m looking to collaborate with other Developers.
 - ⚡ Fun fact: I'm very funny.
