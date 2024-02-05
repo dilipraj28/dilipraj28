@@ -19,9 +19,9 @@
 ### Here are some ideas to get you started:
 
 - 👋 Hi, I’m @gdilipraj
-- 👀 I’m interested in Full Stack Development but also exploring different TECH STACKS.
-- 🌱 I’m currently doing masters in Computing Science from <a href="https://www.uea.ac.uk/" target="_blank"> UEA </a>.
-- 🎯 2024 goal is to create more projects on web development and learn Data Analytics.
+- 👀 I’m exploring different TECH STACKS.
+- 🌱 I’m currently doing MSc Cmp Sceince from <a href="https://www.uea.ac.uk/" target="_blank"> UEA </a>.
+- 🎯 2024 goal is to create more projects.
 - 🤝 I’m looking to collaborate with other Developers.
 - ⚡ Fun fact: I'm very funny.
 
